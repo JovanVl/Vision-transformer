@@ -1,6 +1,13 @@
 # Vision-transformer
 An implementation of the Vision transformer architecture and its use for artwork period image classification
 
+## Course:
+Computer intelligence
+
+## Author:
+Jovan Vlatković 176/2021
+Faculty of Mathematics
+
 ## Project structure
  
 ```
