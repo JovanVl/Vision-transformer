@@ -4,7 +4,7 @@ An implementation of the Vision transformer architecture and its use for artwork
 ## Project structure
  
 ```
-.
+project/
 ├── data/            # directory for raw, processed and train/test data
 ├── docs/            # report & presentation
 ├── notebooks/       # training and evaluating the model
