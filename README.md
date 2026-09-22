@@ -5,7 +5,8 @@ An implementation of the Vision transformer architecture and its use for artwork
 Computer intelligence
 
 ## Author:
-Jovan Vlatković 176/2021
+Jovan Vlatković 176/2021,
+
 Faculty of Mathematics
 
 ## Project structure
