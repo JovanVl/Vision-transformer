@@ -2,7 +2,7 @@
 An implementation of the Vision transformer architecture and its use for artwork period image classification
 
 ## Course:
-Computer intelligence
+Computational Intelligence
 
 ## Author:
 Jovan Vlatković 176/2021,
